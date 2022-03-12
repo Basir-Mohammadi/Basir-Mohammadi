@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+#survey-form {
+    margin: 30px 0;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color:white;
+}
+
+#survey-form > * {
+    padding: 10px 0;
+}
+
+#btn{
+    padding: 10px 20px;
+    border-radius: 5px;
+}

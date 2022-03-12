@@ -1,56 +1,54 @@
 <!DOCTYPE html>
 <html>
     <head>
-
+        <link rel="stylesheet" href="style.css">
     </head>
 
     <body>
-        <header class="container"></header>
-        <div class="text-form">
-        <h1 id="text-title">freeCodeCamp Survey Form</h1>
-        <p id="text-description">Thank you for taking the time to help us improve the platform</p>
-        </div>
+        <div  class="container">
+        
         <form id="survey-form">
-            <div id="name">
-                Name
+            <div>
+                <h1 id="title">freeCodeCamp Survey Form</h1>
+                <p id="description">Thank you for taking the time to help us improve the platform</p>
             </div>
             <div id="enter-name">
-                <input type="text" placeholder="enter your name"/>
+                <label for="name">Name</label>
+                <input type="text" id="name"placeholder="enter your name"/>
             </div> 
-            <div id="email">Email</div>
             <div id="enter-email">
-                <input type="email" placeholder="enter email"/>
+                <label for="email">Email</label>
+                <input type="email" id="email" placeholder="enter email"/>
             </div>
-            <div id="age">Age</div>
-            <div id="enter-age">
-                <input type="number" placeholder="enter your age"/>
+            <div id="age">
+                <label for="age">Age</label>
+                <input type="number" id="age"placeholder="enter your age"/>
             </div>
             <div id="describe">
                 Which option best describes your current role?
+                <div id="select">
+                    <select>
+                        <option>student</option>
+                        <option>full time job</option>
+                        <option>full time learner</option>
+                        <option>prefer not to say</option>
+                        <option>others</option>
+                    </select>
+                </div>
             </div>
-            <div id="select">
-                <select>
-                    <option>student</option>
-                    <option>full time job</option>
-                    <option>full time learner</option>
-                    <option>prefer not to say</option>
-                    <option>others</option>
-                </select>
-            </div>
-            <div id="button">
-                <input type="submit" name="submit"/>
-            </div>
+  
             <div id="radio-description">
                 Would you recommend freeCodeCamp to a friend?
-            </div>
-            <div id="radio">
-                <input
-                    name="user-recommend"
-                    value="definitely"
-                    type="radio"
-                    class="input-radio"
-                    checked
-                    />Definitely
+            
+                <div id="radio">
+                    <input
+                        name="user-recommend"
+                        value="definitely"
+                        type="radio"
+                        class="input-radio"
+                        checked
+                        />Definitely
+                </div>
             </div>
             <div id="radio">
                 <input
@@ -70,6 +68,49 @@
                     
                     />Not Sure
             </div>
+            <div>
+                What is your favourite feature of freeCodeCamp ?
+                    <select>
+                        <option>Challenges</option>
+                        <option>Projects</option>
+                        <option>Community</option>
+                        <option>Open Source</option>
+                    </select> 
+            </div>
+            <div>
+                What would you like to see improved? (Check all that apply)
+                <div>
+                    <input type="checkbox" id="front-end" name="front-end"
+                           checked>
+                    <label for="front-end">Front-end Projects</label>
+                  </div>
+                  
+                  <div>
+                    <input type="checkbox" id="back-end" name="back-end">
+                    <label for="back-end">Back-end Projects</label>
+                  </div>
+                  <div>
+                    <input type="checkbox" id="data-visualization" name="data-visualization">
+                    <label for="data-visualization">Data Visualization</label>
+                  </div>
+                  <div>
+                    <input type="checkbox" id="challenges" name="challenges">
+                    <label for="challenges">Challenges</label>
+                  </div>
+                  <div>
+                    <input type="checkbox" id="open-source" name="open-source">
+                    <label for="open-source">Open Source Community</label>
+                  </div>
+                  <div>
+                    <input type="checkbox" id="gitter-help" name="gitter-help">
+                    <label for="gitter-help">Gitter help rooms</label>
+                  </div>
+            </div>
+            <div>
+                <textarea name="comments" id="comments" cols="30" rows="10">Enter your comments here</textarea>
+            </div>
+            <button id="btn" type="submit">Submit</button>
         </form>
+    </div>
     </body>
 </html>
