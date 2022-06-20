@@ -12,14 +12,15 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+## 📖 About me
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 💻 I'm a full stack developer
+
+- 🌱 I’m currently working with Ruby and Rials
 
 - 📫 How to reach me **basirahmadmohammadi852@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-- 
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
