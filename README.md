@@ -1,6 +1,6 @@
 <!--![I'm Basir](https://user-images.githubusercontent.com/101289027/173161694-22804f84-21c3-4ca5-8498-3d080f8d9d9b.png)-->
 <h1 align="center">Hi 👋, I'm Basir Mohammadi</h1>
-<h3 align="center">A passionate full-stack developer.I am building web apps capable of working remote and on site. I am available for hire or looking for a new opportunities.</h3>
+<h3 align="center">A passionate full-stack developer, capable of working remote and onsite.<br> I am available for hire and looking for new opportunities.</h3>
 
 <br>
 
@@ -18,6 +18,7 @@
 - 📫 How to reach me **basirahmadmohammadi852@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 
 
 <br>
 
