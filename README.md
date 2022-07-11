@@ -89,7 +89,7 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><img  width =49% align="left"
+<p><img  width =41% align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Basir-Mohammadi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Basir-Mohammadi" 
     bg_color=#808080/></p> 
