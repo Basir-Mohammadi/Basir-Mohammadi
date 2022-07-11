@@ -89,22 +89,25 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><img align="left"
+<p><img  width =49% align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Basir-Mohammadi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Basir-Mohammadi" 
-    bg_color=#808080/></p>
+    bg_color=#808080/></p> 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Basir-Mohammadi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img width=49% align="center" src="https://github-readme-stats.vercel.app/api?username=Basir-Mohammadi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Basir-Mohammadi" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Basir-Mohammadi&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Basir-Mohammadi" /></p>
+<p><img width=49%align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Basir-Mohammadi&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Basir-Mohammadi" /></p>
       
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
+<p align="right"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
+ 
+ [![Mohammadi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Basir-Mohammadi&custom_title=Mohammadi%27s%20Contribution%20Graph&theme=react-dark&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Basir-Mohammadi/)
 
-[Basir Mohammadi](https://github.com/Basir-Mohammadi)
+**You can check my portfolio [here](https://Basir-Moahammadi.github.io/My_Portfolio/)**<img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
+
 <!--
 **basirking/basirking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
