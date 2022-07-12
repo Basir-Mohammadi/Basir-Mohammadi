@@ -106,7 +106,7 @@
  
  [![Mohammadi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Basir-Mohammadi&custom_title=Mohammadi%27s%20Contribution%20Graph&theme=react-dark&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Basir-Mohammadi/)
 
-**You can check my portfolio [here](https://Basir-Moahammadi.github.io/My_Portfolio/)**<img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
+**You can check my portfolio [here](https://https://basir-mohammadi.github.io/My_Portfolio/)**<img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
 
 <!--
 **basirking/basirking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
