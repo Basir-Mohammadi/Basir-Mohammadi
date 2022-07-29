@@ -16,7 +16,7 @@
 
 - 💻 I'm a full stack developer
 
-- 🌱 I’m currently working with Ruby and Rials
+- 🌱 I’m currently working with Ruby and Rails
 
 - 📫 How to reach me **basirahmadmohammadi852@gmail.com**
 
